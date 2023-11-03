@@ -1,0 +1,7 @@
+{
+  "name": "Memee",
+  "displayName": "Memee",
+  "android": {
+    "softwareKeyboardLayoutMode": "pan"
+  }
+}
