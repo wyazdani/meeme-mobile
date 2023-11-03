@@ -1,0 +1,32 @@
+{
+  "api_token": "IOS_bMUEaDjj9aqv1fyVHQ",
+  "app_identifiers": ["com.rn.memee"],
+  "available_actions": [],
+  "domains": ["https://api.photoeditorsdk.com"],
+  "enterprise_license": false,
+  "expires_at": null,
+  "features": [
+    "camera",
+    "library",
+    "export",
+    "customassets",
+    "whitelabel",
+    "adjustment",
+    "brush",
+    "filter",
+    "focus",
+    "frame",
+    "overlay",
+    "sticker",
+    "text",
+    "textdesign",
+    "transform"
+  ],
+  "issued_at": 1667910952,
+  "minimum_sdk_version": "1.0",
+  "owner": "Memee App",
+  "platform": "Android",
+  "products": ["pesdk"],
+  "version": "2.4",
+  "signature": "e3QP3lA+cHfeG2yh0a1IpgsWJksespWrCpiaI/HNWIzCLbd+3dqgIiYXCDEIhTrcBxaStNN7kObNSnJIhpfTkv9BS2UOeGQH7kujoIsaJqe+RaBldcyAocmQ7hGpSwMcq2HzHHSHU93syiERzy26nma7/R23j26qvmGHd5YXKgwH/veVgXyJRU1o1acnqzRh8MnJMXpwwP/5zSYbEzQgEVd3AtIBsCgk56dMKjL7Q3L+oLxamW/8Ol8yzhCyrncXxiH0hbxa+DAmbcZ8M8IxEHr7pAf+hfO5evMlJ56loTPttFBdVcWFf7yjzG3IZpmVrGJrbfzBr1K42KpA40G6dJ209KpAmAuLiThWkKi/x8+OsrZWg85quI75AQ18fK+alUZxXRQGTJeGVuUZ5JMReaGA2ZCO//xbMQyAkX3wyJ7oB/8gacTL3QXvaZ7O5cpl7Qz8M/qVJaUVz7DyHunJiCaucZkXQaqK9cEmFDlHoAhADjEbGoimN5QmK+sZYEdwtw3pUKceukOMBVX1wtZSr4zyJ4kaR6MQ/nwWtc0bFynu96ifxaakLfMzwZ3GtHjDJUecBG8TXPrQJ6DhtFhFe1FyVozBPGKqtYopQCF8kJSYU+c4ZV5nqh2EOnLsZLEyhBKvvx2Jl+b/E+1csQDH0SKKPsXfmja/nsGm6yopS8M="
+}

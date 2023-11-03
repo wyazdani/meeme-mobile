@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "729657529114",
+    "project_id": "memee-app-368013",
+    "storage_bucket": "memee-app-368013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729657529114:android:15f77ab3bec8ebdf1812a3",
+        "android_client_info": {
+          "package_name": "com.rn.memee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729657529114-1bn6l5asl1qvlupj551grmo4kp9nom2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn.memee",
+            "certificate_hash": "7a78c2b50d52ef8007b12a435b83835675e8074e"
+          }
+        },
+        {
+          "client_id": "729657529114-62mfpct9iolppcdupf99n9pbbqb5l7dt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn.memee",
+            "certificate_hash": "ff9d9cc246ae50618f3d43644112866e38c4800c"
+          }
+        },
+        {
+          "client_id": "729657529114-g25m9b8stkb0p8bec15ev2jqks6idnpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn.memee",
+            "certificate_hash": "fddc1789521939b9e96841dce5b02115622758b0"
+          }
+        },
+        {
+          "client_id": "729657529114-v3q7n56e0ek4jeresl6120302poofslv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn.memee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "729657529114-nrdr4euidcs5cuu872mc7thjfaf3qe2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfbpeJc7hrM6V9Na5ka1fFsDIVY9LbtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729657529114-nrdr4euidcs5cuu872mc7thjfaf3qe2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729657529114-086imt763s9ncpfveifof9se0n4o3neu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vs.memee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

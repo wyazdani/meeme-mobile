@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>729657529114-086imt763s9ncpfveifof9se0n4o3neu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.729657529114-086imt763s9ncpfveifof9se0n4o3neu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>729657529114-62mfpct9iolppcdupf99n9pbbqb5l7dt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWRut8wIHpAaTwOqvVxZDItmR5ilu6TaE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>729657529114</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vs.memee</string>
+	<key>PROJECT_ID</key>
+	<string>memee-app-368013</string>
+	<key>STORAGE_BUCKET</key>
+	<string>memee-app-368013.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:729657529114:ios:6dc087b85aa8e41c1812a3</string>
+</dict>
+</plist>
